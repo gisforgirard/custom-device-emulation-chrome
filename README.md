@@ -50,6 +50,16 @@ Samsung Galaxy Note10 | 412 | 869 | 2.625 | Mozilla/5.0 (Linux; Android 9; SM-N9
 Samsung Galaxy Note10+ | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N975XU) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36 |
 Samsung Galaxy A51/71 | 412 | 737 | 2.63 | Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/18.0 Chrome/99.0.4844.88 Mobile Safari/537.36 |
 Samsung Galaxy A20 | 980 | 1734 | 2.25 | Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36 |
+Samsung Galaxy S22 | 360 | 780 | 3 | Mozilla/5.0 (Linux; Android 13; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Samsung Galaxy S22+ | 360 | 780 | 3 | Mozilla/5.0 (Linux; Android 13; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Samsung Galaxy S22 Ultra | 384 | 741 | 2.81 | Mozilla/5.0 (Linux; Android 13; SM-S908E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Samsung Galaxy S21 | 360 | 800 | 3 | Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+Samsung Galaxy S21+ | 384 | 854 | 2.8125 | Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+Samsung Galaxy S21 Ultra | 384 | 854 | 3.75 | Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+Samsung Galaxy S20 | 360 | 800 | 4 | Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36 |
+Samsung Galaxy S20+ | 384 | 854 | 3.75 | Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+Samsung Galaxy S20 Ultra | 412 | 915 | 3.5 | Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+Samsung Galaxy S20 FE | 412 | 914 | 2.625 | Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
 Samsung Galaxy S10 | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36 |
 Samsung Galaxy S10+ | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36 |
 Samsung Galaxy S10e | 360 | 760 | 3 | Mozilla/5.0 (Linux; Android 9; SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36 |
