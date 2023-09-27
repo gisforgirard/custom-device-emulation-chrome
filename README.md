@@ -84,6 +84,7 @@ Samsung Galaxy Note 8 | 412 | 846 | 3.5 | Mozilla/5.0 (Linux; Android 7.1.1; SAM
 Samsung Galaxy S8 | 360 | 740 | 3 | Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 |
 Samsung Galaxy S8+ | 412 | 846 | 3.5 | Mozilla/5.0 (Linux; Android 7.0; SM-G955U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 |
 Samsung Galaxy S7 | 360 | 640 | 4 | Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36 |
+Google Pixel 6 | 412 | 915 | 2.625 | Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 |
 Google Pixel 4 | 353 | 745 | 3 | Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36 |
 Google Pixel 4 XL | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36 |
 Google Pixel 3 | 393 | 786 | 2.75 | Mozilla/5.0 (Linux; Android 9; Pixel 3 Build/PQ1A.181105.017.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 |
